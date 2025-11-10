@@ -14,7 +14,7 @@ import Moments from "./pages/Moments";
 import Community from "./pages/Community";
 import Studio from "./pages/Studio";
 import NotFound from "./pages/NotFound";
-import { useState } from "react";
+import { useState, useEffect } from "react";
 import { sdk as miniAppSdk } from '@farcaster/miniapp-sdk'
 
 const queryClient = new QueryClient();

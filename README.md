@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 
 # AI Crypto Story 🎙️✨
@@ -132,3 +133,6 @@ Contributions are welcome! If you have ideas for new features, bug fixes, or imp
 ## ☁️ Deployment
 
 
+=======
+# mortal-fun-story
+>>>>>>> 81294dae8be73ad5725fb01dc4c680d080886604

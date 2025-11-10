@@ -17,10 +17,10 @@ export const appKit = createAppKit({
   networks: networks as any,
   projectId,
   metadata: {
-    name: 'AI Crypto Story',
+    name: 'Mortal Fun Story',
     description: 'Transform your crypto journey into epic narratives',
-    url: 'https://aicryptostory.app',
-    icons: ['https://aicryptostory.app/icon.png']
+    url: 'http://localhost:8080',
+    icons: ['http://localhost:8080/favicon.ico']
   },
   features: {
     analytics: false,
