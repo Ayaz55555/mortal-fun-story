@@ -1,6 +1,6 @@
 
 
-# AI Crypto Story 🎙️✨
+# AI Crypto Story🎙️✨
 
 **Transform your crypto transaction history into an epic, AI-narrated saga. Mint your favorite on-chain moments as unique NFTs, share your story, and compete with the community.**
 
