@@ -21,7 +21,7 @@ AI Crypto Story converts the cold, technical data of blockchain transactions int
 - [Contributing](#-contributing)
 - [Deployment](#-deployment)
 
-## ✨ Features
+## ✨Features
 
 - **Personalized Story Feed:** Connect your wallet to see a chronological, infinitely-scrolling feed of your on-chain activities, narrated by AI.
 - **AI Narration & Voice Synthesis:** Each transaction is analyzed, summarized with personality, and converted to audio using advanced AI models.
